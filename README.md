@@ -19,4 +19,4 @@
 <br/>
 
 <p>Data de início: 07/06/2024<br>Lançamento da versão 1.0: 07/06/2024</p>
-<a href="">Acesse o PayLog aqui</a>
+<a href="https://pay-log.vercel.app">Acesse o PayLog aqui</a>
